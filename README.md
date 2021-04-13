@@ -21,7 +21,7 @@ Objetivos:
 ### `Projeto Concluído`
 
 Página index da aplicação.
-![index](index.png)
+![index](https://github.com/Igor829-art/list/blob/main/index.png)
 [Repositório do projeto.](https://github.com/Igor829-art/list.git)
 
 
